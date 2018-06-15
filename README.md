@@ -1,4 +1,4 @@
-# PolybiusSq_rb
+# polybius_sq-gem
 ruby module to encode and decode messages with a polybius square
 
 
